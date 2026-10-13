@@ -5,10 +5,11 @@
 4CHAN4cdn.org	4chan.org4channel.org
 
 4PDA4pda.to
-¿
+Ï
 	ANTHROPICanthropic.comclau.de	claude.ai
-claude.comclaudemcpclient.comclaudemcpcontent.comclaudeusercontent.com%!servd-anthropic-website.b-cdn.net
-¸Í
+claude.com
+claude.devclaudemcpclient.comclaudemcpcontent.comclaudeusercontent.com%!servd-anthropic-website.b-cdn.net
+äÊ
 CATEGORY-ADS2mdn-cn.net
 ads2mdn.net
 ads	51.la51y5.neta.adtng.coma.alimama.cn
@@ -233,7 +234,6 @@ clarity.ms
 adscm.baidu.com
 adscnaa123.comcnlogs.umeng.com
 ads"cnlogs.umengcloud.com
-ads!collector.github.com
 ads#collector.xhamster.com
 ads)config.uca.cloud.unity3d.com
 adscontentabc.comcounter.yandex.ru
@@ -328,8 +328,6 @@ go2.global$google-analytics-cn.com
 adsgooglevads-cn.com
 adsgozendata.com)graph-fallback.instagram.com
 ads graph.instagram.com
-adsgraph.whatsapp.com
-adsgraph.whatsapp.net
 adsgs.amplitude.com
 ads gs.eu.amplitude.com
 ads!guanggaoad.youku.com
@@ -604,8 +602,7 @@ wit.qq.com
 adswm.baidu.com
 adswmbd.gamersky.com
 ads"wuliao.epro.sogou.com
-adswwads.cnxy-log.tagtic.cnyabs.yandex.ru
-ads	yads.tech
+adswwads.cnxy-log.tagtic.cn	yads.tech
 adsyandex-metrica.ru
 adsyandexmetrica.com
 adsyango-ads.com
@@ -702,13 +699,9 @@ bs.mail.ru
 adsclck.yandex.net
 adsclck.yango.com
 adsclick.rustore.ru
-ads</copilot-telemetry-service.githubusercontent.com
-ads4'copilot-telemetry.githubusercontent.com
 ads disney.my.sentry.io
 ads+error-tracking.megamarket.tech
 ads+google-analytics-suite.ozon.ru
-ads/"incoming-telemetry.thunderbird.net
-ads+incoming.telemetry.mozilla.org
 adsinformer.yandex.ru
 ads log-sdk.gifshow.com
 adslog.strm.yandex.ru
@@ -788,7 +781,7 @@ rs.mail.ru
 adsxray.mail.ru
 adsOB^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 ads
-…Ù
+±Ö
 CATEGORY-ADS-ALL1rx.io
 ads2mdn-cn.net
 ads2mdn.net
@@ -1030,7 +1023,6 @@ clarity.ms
 adscm.baidu.com
 adscnaa123.comcnlogs.umeng.com
 ads"cnlogs.umengcloud.com
-ads!collector.github.com
 ads#collector.xhamster.com
 ads)config.uca.cloud.unity3d.com
 adscontentabc.com!contextual.media.net
@@ -1128,8 +1120,6 @@ go2.global$google-analytics-cn.com
 adsgooglevads-cn.com
 adsgozendata.com)graph-fallback.instagram.com
 ads graph.instagram.com
-adsgraph.whatsapp.com
-adsgraph.whatsapp.net
 ads	growin.cngrowingio.cngrowingio.comgs.amplitude.com
 ads gs.eu.amplitude.com
 ads!guanggaoad.youku.com
@@ -1436,8 +1426,7 @@ wit.qq.com
 adswm.baidu.com
 adswmbd.gamersky.com
 ads"wuliao.epro.sogou.com
-adswwads.cnxy-log.tagtic.cnyabs.yandex.ru
-ads	yads.tech
+adswwads.cnxy-log.tagtic.cn	yads.tech
 adsyandex-metrica.ru
 adsyandexmetrica.com
 adsyango-ads.com
@@ -1534,13 +1523,9 @@ bs.mail.ru
 adsclck.yandex.net
 adsclck.yango.com
 adsclick.rustore.ru
-ads</copilot-telemetry-service.githubusercontent.com
-ads4'copilot-telemetry.githubusercontent.com
 ads disney.my.sentry.io
 ads+error-tracking.megamarket.tech
 ads+google-analytics-suite.ozon.ru
-ads/"incoming-telemetry.thunderbird.net
-ads+incoming.telemetry.mozilla.org
 adsinformer.yandex.ru
 ads log-sdk.gifshow.com
 adslog.strm.yandex.ru
@@ -1620,47 +1605,62 @@ rs.mail.ru
 adsxray.mail.ru
 adsOB^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 ads
-¦-
-CATEGORY-BANK-RU21-school.ru2gis.ae2gis.am2gis.az2gis.by2gis.com2gis.com.cy2gis.cz2gis.ge2gis.kg2gis.kz2gis.ru	2gis.tech2gis.tj2gis.uz	2w.ru	4c.ru4epenaxa.com
-abr.ruabsolutbank.ruaccesspoint.uzads.sber.ru
-ads	afisha.ru	akbars.rualefbank.comalfa.mealfabank.rualfabank.stalfadirect.ruankb.ruasia-pay.ru
+ä1
+CATEGORY-BANK-RU	2w.ru	4c.ru4epenaxa.com
+abr.ruabsolutbank.ruads.sber.ru
+ads
+agroros.ru
+ai-bank.ru	akbars.ru	akcept.ru
+akibank.ru	albank.rualefbank.comalfa.mealfabank.rualfabank.stalfadirect.ruankb.ru
+apkbank.ruaresbank.ruasia-pay.ru
 atb.su
-atomyze.ruatomyze.techautokreditbank.ruavangard.ruaversbank.rubabki.rubank-arzamas.ru bank-credit-suisse-moscow.rubank131.combankermak.rubankline.ru
+atomyze.ruatomyze.techautofinancebank.ruautokreditbank.ruavangard.ruaversbank.rubabki.rubancaintesa.rubank-arzamas.ru bank-credit-suisse-moscow.rubank-hlynov.rubank.yandex.rubank131.com
+bank131.rubankermak.rubankline.rubankofkazan.rubankperm.rubankstavr.ru	bankvl.ru
 bbr.rubcs-bank.ru
 bcs.rubest2pay.net
 bfa.rublanc.ru
-bm-bank.rubooking-tec.rubps-sberbank.by	broker.rubspb.rucapitalt.rucardsmobile.rucdn-tinkoff.rucentraluniversity.rucitydrive.ru$clickstream.sberbank.ru
-adscloud.ru
-cloudru.cncodeseason.bycommerzbank.rucplsb.rucredit-zenit.ru	cu.ru
-custody.rudata-tscbank.rudbmoscow.rudbo-dengi.onlinedeltacredit.rudepository.rudeutsche-bank.rudeutschebank.ru
-dolyame.rudomrfbank.rueaptechka.online
-eapteka.ruelectronicsignature.ru
-enterly.ruera-invest.ruetna.aifinambank.ruforshtadt.rugainstech.rugazprombank.comgazprombank.investmentsgazprombank.rugetsynapse.io
-gid.ru	giga.chatgitverse.rugosdolgi.ru
-gpb.ruhomecredit.ru
-hva.imibamoscow.ru	id.ruit-katok.ruit-picnic.ruit-piknik.ru
-jfn.sujira-tcsbank.ru	jivo.chatjivo.rujivochat.co.injivochat.co.zajivochat.comjivochat.com.brjivochat.com.cojivochat.com.pejivochat.com.trjivochat.dejivochat.esjivochat.ngjivochat.rujivosite.comjivosite.rujpmorgan.ru	jump.taxijumpwork.rukarmahelp.rukarta-banka-rf.ru
-korona.comkoshelek.appkubankredit.rukuper.rulifestyle-tec.rumalotogo.ru
-max-tcs.rumegamarket.rumegamarket.techmfk-bank.rumfk-t-finance.rumhcb.rumhcbr.ru
-mkb.ru
-mtsbank.rumtsdengi.rumvs-bank.rumy-tbank.rumyapelsin.ru
-neon.click
-adsnoosferabank.runspk.ru
-okko.sportokko.tv
-okkoapi.tv	otello.ru
+bm-bank.ru
+bmwbank.ru
+boc.rubooking-tec.rubps-sberbank.by	broker.rubspb.rubystrobank.rucapitalt.rucardsmobile.rucdn-tinkoff.rucentraluniversity.rucentrinvest.ruchelindbank.ruchelinvest.ru	cibank.rucifra-bank.ru$clickstream.sberbank.ru
+ads
+cmrbank.rucoalmetbank.rucodeseason.bycommerzbank.rucplsb.rucredit-zenit.rucrediteurope.rucreditural.ru	cu.ru
+custody.rudata-tscbank.rudatabank.rudbmoscow.rudbo-dengi.onlinedcapital.rudeltacredit.rudepository.ruderzhava.rudeutsche-bank.rudeutschebank.ru
+dolyame.rudomrfbank.ru	dvbank.ru	efbank.ruelectronicsignature.ru
+emb.ruenergobank.ruenergotransbank.com
+enterly.ruera-invest.ruetna.aievrofinance.rueximbank.ruexpobank.rufinambank.rufinance.ozon.rufinstarbank.ruforabank.ruforshtadt.rugainstech.rugazprombank.comgazprombank.investmentsgazprombank.rugaztransbank.ru	gebank.ru
+genbank.rugosdolgi.ru
+gpb.ruhalvacard.ru	home.bankhomecredit.ru
+hva.imibamoscow.ruicbcmoscow.ru
+in-bank.ruingobank.ruinvestpay.ru
+isnbank.ruit-katok.ruit-picnic.ruit-piknik.ru
+itb.ru
+jfn.sujira-tcsbank.rujpmorgan.ru	jump.taxijumpwork.ruk-bnk.rukamkombank.rukarmahelp.rukarta-banka-rf.ru
+kbb.rukoronapay.comkoshelek.appkoshelev-bank.rukremlinbank.rukubankredit.ru
+kuzbank.rulanta.rulifestyle-tec.rulockobank.rumalotogo.rumaritimebank.com
+max-tcs.ru	mcbank.rumetallinvestbank.rumetib.rumfk-bank.rumfk-t-finance.rumhcb.rumhcbr.ru
+mkb.rumodulbank.rumoex.com	moneta.ru
+mspbank.ru
+mtsbank.rumtsdengi.rumvs-bank.rumy-tbank.rumyapelsin.runationalclearingcentre.runico-bank.ru
+nipbank.ru
+nkcbank.runoosferabank.runorvikbank.ru
+novikom.runovobank.ru
+ns-bank.ru
+nsd.runskbl.runspk.ru	okbank.ru	orbank.ru
 otpbank.ru
-payecom.ru
-payment.ruphoenix-ca.ruplatiecom.ruplayfamily.rupochtabank.ruprimbank.ruprivate-banking.ruprodcontest.com
+payment.rupervbank.ruphoenix-ca.rupikhtabank.rupochtabank.ru	poidem.ruprimbank.ru
+priobye.rupriovtb.comprivate-banking.ruprodcontest.com
 prvbank.rupsb-ocenka.ru
-psb.ru	psbank.rupskb.rupvubank.comraiffeisen-media.ruraiffeisen.rurbcollect.rurbcredit.rurbsgate.com
-rbsuat.comrencapbank.rurencredit.rurestnproducts.rurf-sim-mobile.rurncoluminis.rurosbank-auto.rurosbank-capital.rurosbank-credit.comrosbank-dom.rurosbank-leasing.ru
-rosbank.rurshb.ru
-ru.ccb.comrusfinance.rurusfinancebank.rusafeliner.techsage-observability.tech
-samokat.rusber-bank.bysber.prosber.rusberauto.comsberbank-insurance.rusberbank-tele.comsberbank.comsberbank.rusberbankaktivno.rusberbankins.rusbercloud.rusbercloud.techsberdevices.rusberdisk.rusberfactoring.rusberhealth.rusberindex.rusberleasing.rusberlogistics.rusbermarketing.ru
-adssbermegamarket.rusbermobile.ru	sberpb.rusberspasibo.rusbertech.rusbertroika.rusbibankllc.rusbrf.ru
-seb.ruselkombank.ru
-sgcheck.ru	sinara.ruslavbank.rusmbcr-bank.rusolid.rusovcombank.ruspasibo.digitalspasibo.marketspasibobonus.ruspasibosb.ruspasibosberbank.ru
-ssb.msk.rut-access.rut-bank-app.rut-bank-app.su	t-bank.by
+psb.ru	psbank.rupskb.compvubank.comraiffeisen.rurbcollect.rurbcredit.rurbsgate.com
+rbsuat.com
+rdb.rurencapbank.rurencredit.ruresocreditbank.rurf-sim-mobile.rurncb.rurncoluminis.rurosbank-auto.rurosbank-capital.rurosbank-credit.comrosbank-dom.rurosbank-leasing.ru
+rosbank.rurosdorbank.ru
+rsb.rurshb.ru
+ru.ccb.comrusfinance.rurusfinancebank.rusafeliner.techsage-observability.techsber-bank.bysber.rusberbank.comsberbank.rusberspasibo.rusbibankllc.ru	sbpvtb.rusbrf.ru
+scb.ru
+sdm.ru
+seb.ruselkombank.rusevnb.ru
+sgcheck.ru	sibsoc.ru	sinara.ruslavbank.ru	slbank.rusmbcr-bank.ru	smbfin.ru	snbank.rusngb.rusocium-bank.rusolid.rusolidbank.rusovcombank.ruspasibo.digitalspasibo.marketspasibobonus.ruspasibosb.ruspasibosberbank.ruspbexchange.ruspvb.ru
+ssb.msk.rusvoi.rut-access.rut-bank-app.rut-bank-app.su	t-bank.by
 t-calls.rut-capital-funds.rut-cpa.ru
 t-dengi.rut-finance.groupt-finance.ru
 t-human.rut-investlab.ru
@@ -1669,18 +1669,16 @@ t-pulse.rut-static.rut-stekovka.ru
 t-tech.dev	t-tech.rut-tech.teamt-technologies.ru	t-tolk.ru	t.finance
 tagbank.rutatsotsbank.ru
 tb-esim.rutbank-online.comtbank.rutconf.ru
-tcsbank.rutdev.bytime-messenger.rutinkoff-edu.rutinkoff-group.com
+tcsbank.rutdev.by	thbank.rutime-messenger.rutimerbank.rutinkoff-edu.rutinkoff-group.com
 tinkoff.ai
 tinkoff.rutinkoffcapital.rutinkoffinsurance.rutinkoffinsurancefuture.rutinkoffjournal.rutinkoffmobile.comtinsurance.rutinsurancefuture.ru
 tkbbank.rutmiaf.rutochka-tech.com
-tochka.comtpension.rutravel-tec.ruubs.com
-unidraw.io
-uralsib.ru	vlb100.ruvtb-direct.comvtb-grants.fut.ru
-vtb.ruvtbglobalperspectives.comwesternunion.ru&"xn----7sbhmncai5a0arm7c1e.xn--p1ai xn----8sbkfzespdwig.xn--p1aixn----8sbwjbxyd.xn--p1aixn--90aifd0az.shopxn--90aifd0azb.xn--p1acfxn--b1aechhj6bof8g5a.sitexn--d1abkf4ap.funxn--d1aqf.xn--p1aixn--h1ao.siteyoobusiness.ruzenit-card.ruzenit.ruziraatbank.ruzvuk-b2b.comzvuk.com+error-tracking.megamarket.tech
-ads!metrics.21-school.ru
-adssberpro.vedomosti.ru sentry.sberauto.com
-ads)tracing-http.megamarket.tech
-adsvisor.sberbank.ru
+tochka.comtoyota-bank.rutpension.rutransstroybank.rutravel-tec.rutsbnk.ruubrr.ruubs.com	umbank.ruunicredit.ruunicreditbank.ru
+unidraw.io	united.ru	uralfd.ruuralprombank.ru
+uralsib.ruvbrr.ru
+veb.ruvenets-bank.ru	vfbank.ru	vlb100.ruvlbb.ruvtb-direct.comvtb-grants.fut.ruvtb.com
+vtb.ruvtbbo.ruvtbglobalperspectives.com
+wb-bank.ruwesternunion.ru&"xn----7sbhmncai5a0arm7c1e.xn--p1ai xn----8sbkfzespdwig.xn--p1aixn----8sbwjbxyd.xn--p1aixn--90ab2c.xn--p1aixn--90aifd0az.shopxn--90aifd0azb.xn--p1acfxn--b1aechhj6bof8g5a.sitexn--d1abkf4ap.funxn--h1ao.siteyoobusiness.ruyookassa.ruyoomoney.ruzenit-card.ruzenit.ruziraatbank.ruvisor.sberbank.ru
 ads
 á 
 CATEGORY-ECOMMERCE-RU
@@ -1817,10 +1815,10 @@ sxgeo.citysypexgeo.nettest-ipv6.alpinedc.chtest-ipv6.ams.vr.or
 tnx.nltracemyip.orgtrustmyip.com
 wgetip.comwhatismyip.comwhatismyip.iowhatismyip.netwhatismyip.orgwhatismyipaddress.comwhatismyipaddress.netwhatismyisp.comwhatismyv6.comwhatsmyip.comwhatsmyip.orgwhere-am-i.co	whoer.netwhoerip.com!whois.pconline.com.cn
 cnwhoisxmlapi.comwieistmeineip.dewtfismyip.comcheckip.amazonaws.comcheckip.dyn.comcheckip.dyndns.orgcheckip.global.api.aws&"ip-check-perf.radar.cloudflare.comip.comss.net($ipv4-check-perf.radar.cloudflare.com($ipv6-check-perf.radar.cloudflare.commyip.dnsomatic.commyip.happ.suwhatismyip.akamai.com
-ïº
+É¶
 CATEGORY-RU1917live.red
-24h.tv2gis.ae2gis.am2gis.az2gis.by2gis.com2gis.com.cy2gis.cz2gis.ge2gis.kg2gis.kz	2gis.tech2gis.tj2gis.uz	3ebra.net4epenaxa.com5post.marketa.mts.ru
-adsaccesspoint.uz
+24h.tv	3ebra.net4epenaxa.com5post.marketa.mts.ru
+ads
 acmvid.comactualidad-rt.com
 ad.mail.ru
 adsadfox.ru
@@ -1855,8 +1853,7 @@ bizmrg.combk6bba-resources.combook1917.live	boosty.tobotm
 adscabconnect.orgcallbackkiller.comcarrot-mail.iocarrotquest-mail.iocarrotquest.appcarrotquest.iocarrottrack.appcbkiller.comcdek.shopping
 cdn-vk.netcdnvideohub.comcert-gib.comchipcore.comchizhik.club	cian.site	ciciq.netclck.yandex.ru
 ads$clickstream.sberbank.ru
-ads
-cloudru.cnclstorage.net	cm.expertcodeseason.by
+adsclstorage.net	cm.expertcodeseason.by
 comss.club
 comss.infocomss.me	comss.net
 comss.news	comss.onecomss.online	comss.orgcopymonkey.appcorp.expresscounter.yandex.ru
@@ -1865,11 +1862,11 @@ comss.news	comss.onecomss.online	comss.orgcopymonkey.app
 dashly.appdashly.help	dashly.io	dashly.medashlytrack.appdatacloudmy.comdbo-dengi.online	de-rt.com	de-rt.orgde-rtnews.comde-rtnews.netdert.online	dert.site	dert.tech
 dev-my.comdev-my.games
 dodois.com	dodois.iododopizza.comdodostatic.netdonationalerts.comdriveawaytaxi.orgdrobbox.prodrweb-av.dedrweb-av.esdrweb-av.itdrweb-av.pldrweb.bydrweb.cndrweb.co.jp	drweb.comdrweb.frdrweb.kzdrweb.uzdurovscode.come.mindbox.ru
-adseadaily.comeadaily.infoeadaily.neteadaily.orgeaptechka.online
+adseadaily.comeadaily.infoeadaily.neteadaily.org
 edu22.info
 eligens.cleligens.com.br
 eligens.io
-emias.infoenvybox.companyenvybox.family
+emias.infoenergotransbank.comenvybox.companyenvybox.family
 envybox.io
 envybox.kgenvycdp.comenvycrm.comepicevents.gg	es-rt.comesforce.comesrt.online
 esrt.press	esrt.site
@@ -1882,12 +1879,12 @@ funpay.comg-ib.aeg-ib.sgg-ib.usg.mindbox.ru
 adsgazetarussa.com.brgazprombank.comgazprombank.investmentsgenetic-technologies.am
 genotek.am
 genotek.es
-genotek.eugenotek.health	gerwin.iogetsynapse.iogib-global.com
+genotek.eugenotek.health	gerwin.iogib-global.com
 gib.sg
 gibdev.net	giga.chatgismeteo.bygismeteo.comgismeteo.netgismeteo.stgogettaxi.org	goicq.orggorzdrav.orggoup.aigramotei.onlinegreen-box-tv.comgreywallpass.comgroup-ib.aegroup-ib.co.ukgroup-ib.comgroup-ib.degroup-ib.eugroup-ib.sggroup-ib.us
 groupib.ae
 groupib.sg
-groupib.us	gw2ru.comhaicomdc.comhayya.ae	hh.by	hh.kz
+groupib.us	gw2ru.comhaicomdc.comhayya.ae	hh.by	hh.kz	home.bank
 hva.imicq-download.comicq-mobile.comicq-online.comicq-phone.comicq-phone.orgicq.asia
 icq.aticq.bizicq.com
 icq.de
@@ -1898,16 +1895,15 @@ groupib.us	gw2ru.comhaicomdc.comhayya.ae	hh.by	hh.kz
 icq.sgicq2mobile.comicq5.comicqanywhere.comicqbrasil.comicqbrazil.comicqchat.comicqflirting.comicqgame.comicqgames.comicqkids.comicqmail.comicqmail.neticqonline.comicqpassword.comicqpeople.comicqservers.comicqservice.comicqsupportteam.comicqsystem.comicqsystems.comicqtoday.comicqtutor.comicqvideo.com	ideco.devit-territory.com	ivicdn.tvixbt.com
 ixbt.gamesixbt.market
 ixbt.mediaixbt.pro	ixbt.shop	ixbt.site
-ixbt.videojinrieluosi.cn	jivo.chatjivochat.co.injivochat.co.zajivochat.comjivochat.com.brjivochat.com.cojivochat.com.pejivochat.com.trjivochat.dejivochat.esjivochat.ngjivosite.com	jump.taxijustveryok.comkaspersky-labs.comkaspersky.bekaspersky.cakaspersky.co.inkaspersky.co.jpkaspersky.co.krkaspersky.co.thkaspersky.co.ukkaspersky.co.zakaspersky.comkaspersky.com.aukaspersky.com.brkaspersky.com.cn
-cnkaspersky.com.hkkaspersky.com.plkaspersky.com.trkaspersky.com.twkaspersky.com.vnkaspersky.czkaspersky.dekaspersky.dkkaspersky.dzkaspersky.eskaspersky.fikaspersky.frkaspersky.grkaspersky.itkaspersky.kzkaspersky.makaspersky.mykaspersky.nlkaspersky.ptkaspersky.rokaspersky.rskaspersky.sekeyboardmen.comkhangar.netkinescopecdn.netkinorium.comknightspeak.comkontur-inc.comkontur.host
-korona.comkoshelek.app
+ixbt.videojinrieluosi.cn	jump.taxijustveryok.comkaspersky-labs.comkaspersky.bekaspersky.cakaspersky.co.inkaspersky.co.jpkaspersky.co.krkaspersky.co.thkaspersky.co.ukkaspersky.co.zakaspersky.comkaspersky.com.aukaspersky.com.brkaspersky.com.cn
+cnkaspersky.com.hkkaspersky.com.plkaspersky.com.trkaspersky.com.twkaspersky.com.vnkaspersky.czkaspersky.dekaspersky.dkkaspersky.dzkaspersky.eskaspersky.fikaspersky.frkaspersky.grkaspersky.itkaspersky.kzkaspersky.makaspersky.mykaspersky.nlkaspersky.ptkaspersky.rokaspersky.rskaspersky.sekeyboardmen.comkhangar.netkinescopecdn.netkinorium.comknightspeak.comkontur-inc.comkontur.hostkoronapay.comkoshelek.app
 ktech.team	lenta.com
 lenta.techlog.dzen.ru
 ads
 lovina.app
-magnit.commail-carrotquest.iomailicq.orgmc.yandex.ru
+magnit.commail-carrotquest.iomailicq.orgmaritimebank.commc.yandex.ru
 adsmcc250.pub.3gppnetwork.org
-mcs.st	medsi.com	medsi.promegafon.commegamarket.tech
+mcs.st	medsi.com	medsi.promegafon.com
 mel.fmmemealerts.commeteofor.commeteofor.st	meteum.aimetrics.viqeo.tv
 adsmetrika.yandex.com
 adsmetrika.yandex.net
@@ -1926,9 +1922,7 @@ mts-ws.netmvk.commy-manager-account.com
 adsmycdn.memyoffice.team
 mytopf.com
 mytrk.link
-naydex.net
-neon.click
-adsnetcraze.clubnetcraze.linknetcraze.pronetmonet.conetschool.website
+naydex.netnetcraze.clubnetcraze.linknetcraze.pronetmonet.conetschool.website
 ngenix.netnoticias-rt.comnotimundo.press
 obs.mts.ru
 adsodnoklasniki.byodnoklasniki.uaodnoklassniki.amodnoklassniki.byodnoklassniki.co.eeodnoklassniki.euodnoklassniki.lvodnoklassniki.tjognihome.com	ok.me
@@ -1937,7 +1931,7 @@ okkoapi.tv
 okl.lt	okolo.appopennet.dev
 oskelly.co	ostin.comozon.appozon.byozon.comozon.com.byozon.com.kzozon.devozon.expressozon.globalozon.kzozon.liozon.market	ozon.techozon.tmozon.travelozoncamp.pro
 ozoncom.byozonglobalevents.comozonpartners.byozonrocet.byozonroket.byozonru.co.il
-ozonru.com	ozonru.eu	ozonru.meozonusercontent.com	paywb.comperekrestok.compixonic.compobeda.pagepolza.aipopmechanic.iopoudobnee.compremier.onepremiumlive.siteprod-my.gamesprodcontest.compromodj.comptsecurity.compublic.expresspushgrow.iopvubank.compz.help	r.mail.ru
+ozonru.com	ozonru.eu	ozonru.meozonusercontent.com	paywb.comperekrestok.compixonic.compobeda.pagepolza.aipopmechanic.iopoudobnee.compremier.onepremiumlive.sitepriovtb.comprod-my.gamesprodcontest.compromodj.compskb.comptsecurity.compublic.expresspushgrow.iopvubank.compz.help	r.mail.ru
 adsrabbitcounter.com	rabota.byradar.imgsmail.ru
 adsrandomgodbot.comrbsgate.com
 rbsuat.comrbth.com
@@ -1954,10 +1948,9 @@ ru.ccb.com
 ru.netrugpt.ioruhub.tvrunewsrt.comruptly.agency	ruptly.tvruptly.videorurtnews.comrussiabeyond.comrussiaislove.comrussiatoday.comrussiatoday.netrussiatoday.tvrussieactuelle.frrustore.team
 rustore.tvrutube.sportrwbautomation.techs.mindbox.ru
 adssaas-support.comsafeliner.techsage-observability.tech
-sayeasy.eusber-bank.bysber.prosberauto.comsberbank-tele.comsberbank.comsbercloud.techsbermarketing.ru
-ads
+sayeasy.eusber-bank.bysberbank.com
 seclab.lat
-selcdn.netselectel.academyselectel.blogselectel.comselectel.devselectel.infoselectel.ioselectel.liveservercore.comservercore.liveservicepipe.techsfunpay.comshedevrum.aishop-rt.comsistema-capital.comskbx.proskillbox.prosky.proslavicstar.com
+selcdn.netselectel.academyselectel.blogselectel.comselectel.devselectel.infoselectel.ioselectel.liveservercore.comservercore.liveservicepipe.techsfunpay.comshedevrum.aishedevrum.comshop-rt.comsistema-capital.comskbx.proskillbox.prosky.proslavicstar.com
 slc.tlsmailru.netsmartmed.pro
 smena.cafesmotreshka.tvsn-esp.site
 sokolov.iosourcecraft.devspasibo.digitalspasibo.marketsputnikglobe.comsputnikimages.comsputnikmediabank.comsputniknews.comsrv-hub.orgstandoff365.comstatic-storage.netstaticmy.comsusupport-uber.comswentr.site	t-bank.byt-finance.group
@@ -1984,25 +1977,26 @@ vk.company	vk.design	vk.kzvk.link	vk.mevk.teamv
 vkcloud.kz
 vkcs.cloudvkgo.app
 vklive.appvkmessenger.appvkmessenger.comvkontakte.com	vkpay.app	vkpay.comvkpay.iovkplay.live
-vkuser.netvkuseraudio.comvkuseraudio.netvkuserlive.comvkuserlive.netvkuservideo.comvkuservideo.netvkworkspace.kzvmailru.netvolganet.netvscale.blog	vscale.iovtb-direct.comvtbglobalperspectives.comwarehouse.domainswatchingthehawks.com	wb.am	wb.kg	wb.kzwbautomation.techwbcontent.net
+vkuser.netvkuseraudio.comvkuseraudio.netvkuserlive.comvkuserlive.netvkuservideo.comvkuservideo.netvkworkspace.kzvmailru.netvolganet.netvscale.blog	vscale.iovtb-direct.comvtb.comvtbglobalperspectives.comwarehouse.domainswatchingthehawks.com	wb.am	wb.kg	wb.kzwbautomation.techwbcontent.net
 wbr.bywbstatic.net	wbwh.techwebvisor.com
 adswebvisor.org
 adswhitesaas.comwhoosh.bike	wibes.comwildberries.amwildberries.bywildberries.co.ilwildberries.eswildberries.euwildberries.gewildberries.kgwildberries.kzwildberries.ltwildberries.tjwildberries.tmwildberries.uzwink.amworldcuprussia.com	x5.ai
 x5.com
 x5.digitalx5.groupx5.mediax5.teamx5.techx5static.netxlnk.msxn-----6kc7adj0c9esa.com xn----7sbaba0dc6cdn7cxcj.com#xn----7sbabae2a0bnvtsfr4loc.com"xn----7sbbab6bregnh7b8if5b.comxn----7sbbamm1bv2bh7i.comxn----8sbaroledu6bi7j.comxn----8sbeoy5bze.comxn--80adxhksxn--80aqcf7a6do.comxn--80asehdb
-xn--80aswgxn--90ab.comxn--90aifd0az.shopxn--b1aechhj6bof8g5a.site	xn--c1avgxn--d1abkf4ap.funxn--d1acj3bxn--e1adjldbbpv.xn--90aisxn--h1ao.site	xn--p1acfxn--p1ai	ya.ccyabs.yandex.ru
-ads	yads.tech
+xn--80aswgxn--90ab.comxn--90aifd0az.shopxn--b1aechhj6bof8g5a.site	xn--c1avgxn--d1abkf4ap.funxn--d1acj3bxn--e1adjldbbpv.xn--90aisxn--h1ao.site	xn--p1acfxn--p1ai	ya.ccyadi.sk	yads.tech
 ads
-yandexyandex-bank.netyandex-metrica.ru
-adsyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
-yandex.comyandex.com.amyandex.com.geyandex.com.tryandex.com.ua	yandex.de	yandex.ee	yandex.eu	yandex.fi	yandex.fr	yandex.ityandex.jobs	yandex.kg	yandex.kz	yandex.lt	yandex.lv	yandex.mdyandex.mobi
+yandexyandex-ad.cn
+cnyandex-bank.netyandex-metrica.ru
+adsyandex-team.comyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
+yandex.comyandex.com.amyandex.com.geyandex.com.tryandex.com.ua	yandex.de	yandex.ee	yandex.eu	yandex.fi	yandex.fr	yandex.ityandex.jobs	yandex.kg	yandex.kz	yandex.lt	yandex.lvyandex.market	yandex.mdyandex.mobi
 yandex.net
-yandex.org	yandex.pl	yandex.st	yandex.sx	yandex.tj	yandex.tm	yandex.tr	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexgo.comyandexmetrica.com
+yandex.org	yandex.pl
+yandex.pro	yandex.st	yandex.sxyandex.taxi	yandex.tj	yandex.tm	yandex.tryandex.travel	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexdataschool.comyandexgo.comyandexmetrica.com
 adsyandexwebcache.netyandexwebcache.orgyango-ads.com
 adsyango-b2b.comyango-team.comyango-tech.comyango.africayango.aoyango.bhyango.co.il	yango.comyango.fiyango.qa
 yango.taxi
 yango.techyangofellowship.comyaplakal.com
-yastat.netyastatic.netyclients.comyndx.netyoula.ioyourgood.appzvuk-b2b.comzvuk.com1l-hit.mail.ru
+yastat.netyastatic.netyclients.comydb.techyndx.netyoula.ioyourgood.app1l-hit.mail.ru
 ads1l-hit.vkplay.ru
 ads0$activate.activation-v2.kaspersky.com
 cn+activation-v2.geo.kaspersky.com
@@ -2103,8 +2097,7 @@ bs.mail.ru
 cn$dnl-18.geo.kaspersky.com
 cn$dnl-19.geo.kaspersky.com
 cn"edge.geo.kaspersky.com
-cn+error-tracking.megamarket.tech
-ads+google-analytics-suite.ozon.ru
+cn+google-analytics-suite.ozon.ru
 adsinformer.yandex.ru
 ads, ksn-cinfo-geo.kaspersky-labs.com
 cn*ksn-cinfo.geoksn.kaspersky.com
@@ -2138,8 +2131,7 @@ bs.mail.ru
 adsmc.yandex.net
 adsmc.yango.com
 ads&mdr.ksn.kaspersky-labs.com
-cn!metrics.21-school.ru
-adsmetrika.kontur.ru
+cnmetrika.kontur.ru
 adsmvideo.edna.ionew-adv.ozon.ru
 ads!p00.upd.kaspersky.com
 cn!p01.upd.kaspersky.com
@@ -2204,7 +2196,6 @@ rs.mail.ru
 adssentry.ozon.ru
 ads"sentry.popmechanic.ru
 adssentry.rustore.ru
-ads sentry.sberauto.com
 adssentry.viqeo.tv
 adssentry.wb.ru
 adssentry.x5.ru
@@ -2219,7 +2210,6 @@ rs.mail.ru
 ads	t.mail.ru
 adstarget.vk.com
 ads top-staging.mail.ru
-ads)tracing-http.megamarket.tech
 adsvisor.sberbank.ru
 ads)web-analytics.wildberries.ru
 adswhiteline.mail.ru
@@ -2232,7 +2222,7 @@ rs.mail.ru
 adsxapi.ozonru.me
 adsxray.mail.ru
 ads
-ó
+ƒ
 CATEGORY-SPEEDTEST	cdnst.netcellmaps.comcnspeedtest.cn
 cnekahau.cloud
 ekahau.comfast.comfastspeedtest.comlibrespeed.orglinkmeter.netmeasurementlab.net	meter.net	nperf.com/+ookla-speedtest-central.hgconair.hgc.com.hk	ookla.comooklaserver.netopen.cachefly.netopenspeedtest.comopenspeedtest.rupingtest.netspeed.cloudflare.comspeed.dler.iospeed.eespeed.hinet.netspeed.nccu.edu.twspeed.neu6.edu.cn
@@ -2252,7 +2242,8 @@ speedof.mespeedtest.cesnet.czspeedtest.chspeedtest.citylink.pr
 cntest6.nju.edu.cn
 cntest6.ustc.edu.cn
 cn
-testmy.nettestmyspeed.comtestskorosti.ruwebtest.netxnfz.seu.edu.cn
+testmy.nettestmyspeed.comtestskorosti.ruwebtest.net
+wifiman.mexnfz.seu.edu.cn
 cn5(hk-global-bgp.hkg.speedtest.yecaoyun.com
 !cn($www.speedtest.net.cdn.cloudflare.netOB^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
 ads
@@ -2324,14 +2315,15 @@ freebs.comfreefacebook.comfreefacebook.netfreefacebookads.net
 groups.comhackerfacebook.comhackfacebook.comhackfacebookid.comhifacebook.info!howtohackfacebook-account.comhsfacebook.comhttpfacebook.comhttpsfacebook.comhttpwwwfacebook.com	i.orginternet.orgklik.meliverail.comliverail.tvlogin-account.netmarkzuckerberg.commidentsolutions.commobilefacebook.commoneywithfacebook.commyfbfans.comnewsfeed.comnextstop.comonline-deals.netopencreate.orgpixel.facebook.com
 adsreachtheworldonfacebook.com
 redkix.comshopfacebook.comsportsfacebook.comsportstream.comsupportfacebook.comterragraph.com	tfbnw.netthefacebook.comthefacebook.netthefind.comtoplayerserver.comviewpointsfromfacebook.comwhyfacebook.comworkplace.comworkplaceusecases.comworldhack.comwww-facebook.comwwwfacebok.comwwwfacebook.comwwwmfacebook.comzuckerberg.comzuckerberg.netfbcdn-a.akamaihd.net
-Ù
-GITHUBatom.io!collector.github.com
-adsdependabot.com	gh.ioghcr.ioghe.com
+
+GITHUBatom.io"cafe.github.com
+	telemetry'collector.github.com
+	telemetrydependabot.com	gh.ioghcr.ioghe.com
 git.io	github.aigithub.bloggithub.career
 github.comgithub.community
-github.dev	github.iogithubapp.comgithubassets.comgithubcopilot.comgithubhackathon.comgithubnext.comgithubpreview.devgithubstatus.comgithubsupport.comgithubuniverse.comgithubusercontent.commyoctocat.comnpm.community	npmjs.com	npmjs.orgoctocaptcha.comopensource.guiderepo.newthegithubshop.com</copilot-telemetry-service.githubusercontent.com
-ads4'copilot-telemetry.githubusercontent.com
-ads0,copilotprodattachments.blob.core.windows.netgithub-api.arkoselabs.com!github-cloud.s3.amazonaws.com;7github-production-release-asset-2e65be.s3.amazonaws.com=9github-production-repository-file-5c1aeb.s3.amazonaws.com>:github-production-repository-image-32fea6.s3.amazonaws.comB>github-production-upload-manifest-file-7fdce7.s3.amazonaws.com84github-production-user-asset-6210df.s3.amazonaws.com.*productionresultssa0.blob.core.windows.net.*productionresultssa1.blob.core.windows.net/+productionresultssa10.blob.core.windows.net/+productionresultssa11.blob.core.windows.net/+productionresultssa12.blob.core.windows.net/+productionresultssa13.blob.core.windows.net/+productionresultssa14.blob.core.windows.net/+productionresultssa15.blob.core.windows.net/+productionresultssa16.blob.core.windows.net/+productionresultssa17.blob.core.windows.net/+productionresultssa18.blob.core.windows.net/+productionresultssa19.blob.core.windows.net.*productionresultssa2.blob.core.windows.net.*productionresultssa3.blob.core.windows.net.*productionresultssa4.blob.core.windows.net.*productionresultssa5.blob.core.windows.net.*productionresultssa6.blob.core.windows.net.*productionresultssa7.blob.core.windows.net.*productionresultssa8.blob.core.windows.net.*productionresultssa9.blob.core.windows.net
+github.dev	github.iogithubapp.comgithubassets.comgithubcopilot.comgithubhackathon.comgithubnext.comgithubpreview.devgithubstatus.comgithubsupport.comgithubuniverse.comgithubusercontent.commyoctocat.comnpm.community	npmjs.com	npmjs.orgoctocaptcha.comopensource.guiderepo.newthegithubshop.comB/copilot-telemetry-service.githubusercontent.com
+	telemetry:'copilot-telemetry.githubusercontent.com
+	telemetry0,copilotprodattachments.blob.core.windows.netgithub-api.arkoselabs.com!github-cloud.s3.amazonaws.com;7github-production-release-asset-2e65be.s3.amazonaws.com=9github-production-repository-file-5c1aeb.s3.amazonaws.com>:github-production-repository-image-32fea6.s3.amazonaws.comB>github-production-upload-manifest-file-7fdce7.s3.amazonaws.com84github-production-user-asset-6210df.s3.amazonaws.com.*productionresultssa0.blob.core.windows.net.*productionresultssa1.blob.core.windows.net/+productionresultssa10.blob.core.windows.net/+productionresultssa11.blob.core.windows.net/+productionresultssa12.blob.core.windows.net/+productionresultssa13.blob.core.windows.net/+productionresultssa14.blob.core.windows.net/+productionresultssa15.blob.core.windows.net/+productionresultssa16.blob.core.windows.net/+productionresultssa17.blob.core.windows.net/+productionresultssa18.blob.core.windows.net/+productionresultssa19.blob.core.windows.net.*productionresultssa2.blob.core.windows.net.*productionresultssa3.blob.core.windows.net.*productionresultssa4.blob.core.windows.net.*productionresultssa5.blob.core.windows.net.*productionresultssa6.blob.core.windows.net.*productionresultssa7.blob.core.windows.net.*productionresultssa8.blob.core.windows.net.*productionresultssa9.blob.core.windows.net
 » 
 GOOGLE0emm.com	1e100.net	1ucrs.com265.com
 cn2mdn-cn.net
@@ -2675,6 +2667,29 @@ K
 ads$adstudio-assets.scdn.co
 ads&"audio-ak-spotify-com.akamaized.net'#audio4-ak-spotify-com.akamaized.net#bloodhound.spotify.com
 ads+'cdn-spotify-experiments.conductrics.com&"heads-ak-spotify-com.akamaized.net'#heads4-ak-spotify-com.akamaized.netspotify.com.edgesuite.netspotify.map.fastly.netspotify.map.fastlylb.net
+Ä
+STEAM&client-update.queniuqe.com
+cncsgo.com.cn
+cncsgo.wmsj.cn
+cndl.steam.clngaa.com
+cn	dota2.comdota2.com.cn
+cndota2.wmsj.cn
+cn"edge.steam-dns.top.comcast.net"gstore.val.manlaxy.com
+cnplayartifact.com
+s.team st.dl.bscstorage.net
+cnst.dl.eccdnx.com
+cn!st.dl.pinyuncloud.com
+cnsteam-api.comsteam-chat.comsteam.apac.qtlglb.comsteam.cdn.on.netsteam.cdn.orcon.net.nzsteam.cdn.slingshot.co.nzsteam.cdn.webra.rusteam.eca.qtlglb.comsteam.naeu.qtlglb.comsteam.ru.qtlglb.comsteam.tvsteamchina.com
+cnsteamcommunity.comsteamconnecttest.comsteamcontent.comsteamdeck.comsteamgames.comsteampowered.com&steampowered.com.8686c.com
+cnsteamserver.netsteamstatic.com%steamstatic.com.8686c.com
+cnsteamusercontent.comunderlords.com	valve.netvalvesoftware.comwmsjsteam.com
+cna4e8s8k3.map2.ssl.hwcdn.net2&alibaba.cdn.steampipe.steamcontent.com
+cnf3b7q2p3.ssl.hwcdn.netlv.queniujq.cn
+cn steambroadcast.akamaized.netsteamcdn-a.akamaihd.net*&steamcloudsweden.blob.core.windows.net!steamcommunity-a.akamaihd.net/+steamcommunity-a.akamaihd.net.edgesuite.netsteammobile.akamaized.netsteampipe-kr.akamaized.net#steampipe-partner.akamaized.netsteampipe.akamaized.netsteamstore-a.akamaihd.net($steamugcquincy.blob.core.windows.net#steamusercontent-a.akamaihd.net"steamuserimages-a.akamaihd.netsteamvideo-a.akamaihd.net xz.pphimalayanrt.com
+cn
+Q
+STEAMINVENTORYHELPER
+sih-db.comsih.appsteaminventoryhelper.com
 Ô
 TBANK-RU	2w.ru	4c.ru4epenaxa.com
 atomyze.ruatomyze.techbabki.rubankline.rubooking-tec.rucapitalt.rucardsmobile.rucdn-tinkoff.rucentraluniversity.rucodeseason.by	cu.ru
@@ -2781,11 +2796,9 @@ advk.vk.ru
 ads stats.vk-portal.net
 adstarget.vk.com
 ads
-ž
-WHATSAPPgraph.whatsapp.com
-adsgraph.whatsapp.net
-ads	wa.mewhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.com
-–
+Ü
+WHATSAPP	wa.mewhatsapp-plus.infowhatsapp-plus.mewhatsapp-plus.netwhatsapp.ccwhatsapp.comwhatsapp.infowhatsapp.netwhatsapp.orgwhatsapp.tvwhatsappbrand.com
+‰
 YANDEXadfox.ru
 adsadfox.yandex.ru
 adsadmetrica.ru
@@ -2799,29 +2812,32 @@ ads.yandex
 ads"appmetrica.yandex.net
 ads!appmetrica.yandex.ru
 ads!appmetrica.yango.com
-adsberizaryad.rubs.yandex.ru
+adsberizaryad.ruberu.rubookmate.rubs.yandex.ru
 adscabconnect.orgclck.ruclck.yandex.ru
 adsclstorage.netcounter.yandex.ru
-adsdriveawaytaxi.orgelama.rugogettaxi.orggoup.aihayya.aekinopoisk.rumc.yandex.ru
+adsdelivery-club.rudriveawaytaxi.org
+edadeal.ruelama.ru
+foodfox.rugogettaxi.orggoup.aihayya.aekinopoisk.ru	market.rumc.yandex.ru
 ads	meteum.aimetrika.yandex.com
 adsmetrika.yandex.net
 adsmetrika.yandex.ru
 adsmy-manager-account.com
-naydex.netrealtyverif.rurostaxi.orgshedevrum.aisourcecraft.devstatic-storage.netsupport-uber.comtaxiaid.orgtaxiguru.orgtaxitax.orgturbopages.orgwebvisor.com
+naydex.netrealtyverif.rurostaxi.org	rutaxi.rushedevrum.aishedevrum.comshedevrum.rusourcecraft.devstatic-storage.netsupport-uber.comtaxiaid.orgtaxiguru.orgtaxitax.orgthequestion.ruturbopages.orgvezet.ruwebvisor.com
 adswebvisor.org
-adsxn--d1acpjx3f.xn--p1ai	ya.cc	ya.ruyabs.yandex.ru
-ads	yads.tech
+adsxn--d1acpjx3f.xn--p1ai	ya.cc	ya.ruyadi.sk	yads.tech
 ads
-yandexyandex-bank.netyandex-metrica.ru
-adsyandex-team.ruyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
-yandex.comyandex.com.amyandex.com.geyandex.com.ruyandex.com.tryandex.com.ua	yandex.de	yandex.ee	yandex.eu	yandex.fi	yandex.fr	yandex.ityandex.jobs	yandex.kg	yandex.kz	yandex.lt	yandex.lv	yandex.mdyandex.mobi
-yandex.net
-yandex.org	yandex.pl	yandex.ru	yandex.st	yandex.sx	yandex.tj	yandex.tm	yandex.tr	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexgo.comyandexlyceum.ruyandexmetrica.com
+yandexyandex-ad.cn
+cnyandex-bank.netyandex-metrica.ru
+adsyandex-team.comyandex-team.ruyandex.aeroyandex.asia	yandex.az	yandex.byyandex.cloudyandex.co.il
+yandex.comyandex.com.amyandex.com.geyandex.com.ruyandex.com.tryandex.com.ua	yandex.de	yandex.ee	yandex.eu	yandex.fi	yandex.fr	yandex.ityandex.jobs	yandex.kg	yandex.kz	yandex.lt	yandex.lvyandex.market	yandex.mdyandex.mobi
+yandex.netyandex.net.ru
+yandex.org	yandex.pl
+yandex.pro	yandex.ru	yandex.st	yandex.sxyandex.taxi	yandex.tj	yandex.tm	yandex.tryandex.travel	yandex.ua	yandex.uzyandexadexchange.netyandexcloud.netyandexcom.netyandexdataschool.comyandexdataschool.ruyandexgo.comyandexlyceum.ruyandexmetrica.com
 adsyandexwebcache.netyandexwebcache.orgyango-ads.com
 adsyango-b2b.comyango-team.comyango-tech.comyango.africayango.aoyango.bhyango.co.il	yango.comyango.fiyango.qa
 yango.taxi
 yango.techyangofellowship.com
-yastat.netyastatic-net.ruyastatic.netyccdn.ruyndx.netadfstat.yandex.ru
+yastat.netyastatic-net.ruyastatic.netyccdn.ruydb.techyndx.netadfstat.yandex.ru
 adsads.yandex.com
 adsads.yango.com
 adsadsdk.yandex.ru
